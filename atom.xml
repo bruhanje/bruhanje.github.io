@@ -6,7 +6,7 @@
   <link href="/bruhanje.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/bruhanje/bruhanje.github.io/"/>
-  <updated>2020-06-16T11:04:07.711Z</updated>
+  <updated>2020-06-17T09:20:15.784Z</updated>
   <id>https://github.com/bruhanje/bruhanje.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://github.com/bruhanje/bruhanje.github.io/2020/06/16/hello-world/"/>
     <id>https://github.com/bruhanje/bruhanje.github.io/2020/06/16/hello-world/</id>
     <published>2020-06-16T10:55:11.000Z</published>
-    <updated>2020-06-16T11:04:07.711Z</updated>
+    <updated>2020-06-17T09:20:15.784Z</updated>
     
     <content type="html"><![CDATA[<p>123 456 第一</p>]]></content>
     
@@ -39,7 +39,9 @@
       <category term="第一篇博客" scheme="https://github.com/bruhanje/bruhanje.github.io/categories/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="-博客" scheme="https://github.com/bruhanje/bruhanje.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="第一" scheme="https://github.com/bruhanje/bruhanje.github.io/tags/%E7%AC%AC%E4%B8%80/"/>
+    
+      <category term="博客" scheme="https://github.com/bruhanje/bruhanje.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
