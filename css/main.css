@@ -2011,7 +2011,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffd9e4;
+  background: #ffff18;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3308,6 +3308,13 @@ img:hover {
   .pagination {
     margin: 8px 0 0;
   }
+}
+body {
+  background: url("/images/456.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
 }
 .post {
   margin-top: 60px;
