@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>我的第一篇博客</title>
-      <link href="/bruhanje.github.io/2020/06/16/hello-world/"/>
-      <url>/bruhanje.github.io/2020/06/16/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>123 456 第一</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>我的第一篇博客</title>
+    <url>/bruhanje.github.io/2020/06/16/hello-world/</url>
+    <content><![CDATA[<p>123 456 第一</p>
+]]></content>
       <categories>
-          
-          <category> 第一篇博客 </category>
-          
+        <category>第一篇博客</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 第一 </tag>
-            
-            <tag> 博客 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>第一</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
 </search>
